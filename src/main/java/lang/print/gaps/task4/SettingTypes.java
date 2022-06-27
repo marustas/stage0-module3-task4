@@ -7,7 +7,7 @@ char        second = 'a';
 boolean        third = 5 > 9;
 double        forth = 12.90434323324342;
 float        fifth = 12.3F;
-short         sixth = 1;
-int        seventh = 129;
+int        sixth = 1;
+short        seventh = 129;
     }
 }
